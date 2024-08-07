@@ -54,7 +54,7 @@ args = {
          "weight_decay":1e-5,
          "num_epochs":1000,
          "seed": 42,
-         "device": "cuda:2",
+         "device": "cuda:0",
     }
 }
 
