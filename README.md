@@ -1,4 +1,4 @@
-# Satellite pattern-of-lift identification
+# Satellite pattern-of-life identification
 
 
 This repository contains the implementation of submission **Learning Satellite Pattern-of-Life Identification: A Diffusion-based Approach**.
