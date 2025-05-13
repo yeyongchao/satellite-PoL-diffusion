@@ -1,7 +1,7 @@
-# Diffusion-based method for satellite pattern-of-lift identification
+# Satellite pattern-of-lift identification
 
 
-This repository contains the implementation of KDD25-ADS submission **Diffusion-based method for satellite pattern-of-lift identification**.
+This repository contains the implementation of submission **Learning Satellite Pattern-of-Life Identification: A Diffusion-based Approach**.
 
 
 ## Installation
